@@ -1,0 +1,8 @@
+node_modules
+reactapp/build
+package-lock.json
+
+reactapp_script.js
+reactapp_script.js.map
+reactapp_style.css
+reactapp_style.css.map
